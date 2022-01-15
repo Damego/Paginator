@@ -50,7 +50,7 @@ components = {
 class PaginatorStyle(IntEnum):
     TWO_BUTTONS = 1
     FOUR_BUTTONS = 2
-    FOUR_BUTTONS_WITH_COUNT = 3
+    THREE_BUTTONS_WITH_COUNT = 3
     FIVE_BUTTONS_WITH_COUNT = 4
 
 
