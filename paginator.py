@@ -103,7 +103,7 @@ class Paginator:
         try:
             return await self.bot.wait_for(
                 "button_click",
-                check=lambda ctx: ctx.author_id == self.ctx.author_id
+                check=lambda ctx: ctx.author.id == self.ctx.author.id
                 and ctx.message.id == self.message.id,
                 timeout=60,
             )
