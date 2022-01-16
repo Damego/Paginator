@@ -1,1 +1,1 @@
-from paginator import Paginator, PaginatorStyle
+from .paginator import Paginator, PaginatorStyle
