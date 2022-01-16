@@ -28,7 +28,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/Damego/discord_components_paginator",
-    packages=["discord_slash_components_bridge"],
+    packages=["discord_components_paginator"],
     python_requires=">=3.6",
     classifiers=[
         "Intended Audience :: Developers",

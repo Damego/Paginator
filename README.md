@@ -3,7 +3,7 @@
 ## Example
 
 ```py
-from paginator import Paginator, PaginatorStyle
+from discord_components_paginator import Paginator, PaginatorStyle
 
 ...
 
