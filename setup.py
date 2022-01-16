@@ -13,7 +13,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 with open("requirements.txt", "r", encoding="utf-8") as f:
     requirements = f.read()
 
-VERSION = "1.0.0"
+VERSION = "1.0.1"
 
 
 setup(
